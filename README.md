@@ -81,7 +81,7 @@ The ERB source code is in GitHub project [ruby/erb][ruby/erb].
 
 ## Bugs
 
-Bugs may be reported at [ERB Issues][erb issues].
+Bugfixes may be filed at [ERB Pull Requests][erb pull requests].
 
 ## License
 
@@ -90,7 +90,7 @@ of the [2-Clause BSD License][2-clause bsd license].
 
 [2-clause bsd license]: https://opensource.org/licenses/BSD-2-Clause
 [erb executable]:       rdoc-ref:erb_executable.md
-[erb issues]:           https://github.com/ruby/erb/issues
+[erb pull requests]:    https://github.com/ruby/erb/pull
 [rdoc]:                 https://ruby.github.io/rdoc/
 [ruby/erb]:             https://github.com/ruby/erb
 [ruby toolbox]:         https://www.ruby-toolbox.com/categories/template_engines
