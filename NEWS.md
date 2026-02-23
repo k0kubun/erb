@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.0.2
+
+* Freeze `src` in `ERB#initialize` for Ractor compatibility
+
 ## 6.0.1
 
 * Freeze `ERB::Compiler::TrimScanner::ERB_STAG` for Ractor compatibility
